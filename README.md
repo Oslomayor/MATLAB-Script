@@ -111,3 +111,14 @@ student(2).id   = 666
 % 将不同属性的数据整合到一个变量中
 class = {'Denis',555; 'ThatGirl',666}
 ```
+## 程序设计
+### 程序控制结构
+1. if-else
+2. switch-case
+3. try-catch
+### 函数
+1. 一个函数写成一个文件，函数名与文件名一致
+![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function1.png)  
+2. 调用函数，查询函数
+![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function2.png)
+### 调试
