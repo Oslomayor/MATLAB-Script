@@ -115,7 +115,9 @@ class = {'Denis',555; 'ThatGirl',666}
 ### 程序控制结构
 1. if-else
 2. switch-case
-3. try-catch
+3. try-catch  
+4. for  
+5. while
 ### 函数
 1. 一个函数写成一个文件，函数名与文件名一致
 ![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function1.png)  
