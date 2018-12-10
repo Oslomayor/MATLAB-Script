@@ -119,6 +119,8 @@ class = {'Denis',555; 'ThatGirl',666}
 ### 函数
 1. 一个函数写成一个文件，函数名与文件名一致
 ![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function1.png)  
-2. 调用函数，查询函数  
-![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function2.png)
+2. 查询函数  
+![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function2.png)  
+3. 调用函数  
+![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function3.png)  
 ### 调试
