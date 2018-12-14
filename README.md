@@ -126,3 +126,4 @@ class = {'Denis',555; 'ThatGirl',666}
 3. 调用函数  
 ![](https://raw.githubusercontent.com/Oslomayor/Markdown-Imglib/master/Imgs/MATLAB_function3.png)  
 ### 调试
+## MATALB 绘图
